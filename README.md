@@ -11,8 +11,8 @@ Interview question
 
 * create .env file in root directory
 * save this
-  PORT=4000
-  MONGO_URI=mongodb+srv://sabin:p@ssw0rd@vendingmachine.xi6ww.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+  > PORT=4000
+  >  MONGO_URI=mongodb+srv://sabin:p@ssw0rd@vendingmachine.xi6ww.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 ### Operation
 
 ````
